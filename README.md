@@ -1,4 +1,4 @@
-- Jacob Libsman -
+- Jacob Libsman
 
 Graduated RPI 2021, B.S. Computer Science & Math
 
